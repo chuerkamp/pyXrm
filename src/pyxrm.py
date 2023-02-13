@@ -1,5 +1,6 @@
 """
-pyXrm (c) 2023 Claas Huerkamp, All Rights Reserved
+pyXrm (c) 2023 Claas Huerkamp <claas.huerkamp@posteo.net>
+All Rights Reserved
 """
 
 
