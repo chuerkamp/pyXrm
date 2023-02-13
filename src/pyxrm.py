@@ -17,6 +17,7 @@ def main() -> None:
     None
     """
     application: Application = Application()
+    print(application.get_application_message())
     application.run()
 
 
